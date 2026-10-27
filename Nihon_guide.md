@@ -349,9 +349,6 @@ The four principles of the Japanese tea ceremony: **Harmony, Respect, Purity, an
 Derived from **Buddhist philosophy**, especially Zen Buddhism, these principles are traditionally associated with **Sen no Rikyū (千利休, 1522–1591)**, who shaped the Japanese tea ceremony during the Sengoku period.
 (research-ur-self)
 
-
-
-
 ## Learning Resources
 ---Provided---
 
