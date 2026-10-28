@@ -4,11 +4,28 @@
 
 This guide is written specifically for **Vietnamese learners who have mastered English or are at least confident enough to read and understand English materials**.
 
-All learning materials, references, and explanations will be in English. More importantly, this guide follows a Western approach to language learning, commonly known as **Immersion**.
+All learning materials, references, and explanations will be in English.</br>
+More importantly, this guide follows a Western approach to language learning, commonly known as **Immersion**.
 
 Rather than relying on traditional Vietnamese methods of learning Japanese, we will approach the language through English-language resources, practical exposure, and immersion-based learning.
 
 **If you cannot understand English well enough, you will not be able to follow this guide effectively.**
+
+## License
+
+**Copyright © 2026 Dung Nguyen. All rights reserved.**
+
+This document is free for personal, educational, and non-commercial use.
+
+You may copy, share, modify, and redistribute this document, provided that:
+
+- The original author is credited.
+- You do not claim ownership or authorship of the original work.
+- You do not use the document or its modified versions for commercial purposes.
+- This license notice remains intact.
+
+**Author:** Dung Nguyen  
+**Email:** HarujiGlory@gmail.com
 
 ## Spoiler
 
@@ -45,7 +62,9 @@ Cantoneses = Mandarin(70%) + Việt words(30%)
 - **Vietnamese advantage:** As a Vietnamese person, you should know Japanese, Chinese, and Korean, just as English speakers should know German, French, or Latin, and French speakers should know Latin or Spanish, because of their shared linguistic roots and historical connections.
 - **Broaden your mind:** The more languages you learn, the more open-minded you become.
 - **Geopolitics:** The global geopolitical landscape will shift toward five major powers: **US, Japan, China, Russia, and India**.
-- **Recommendation:** As Vietnamese people living in Asia, Japan and China will be particularly important to us. Learn Japanese first because of its technology and Western-minded culture. We are all Western-friendly. Later, you can learn Mandarin if you still have the energy.
+- **Recommendation:** As Vietnamese people living in Asia, Japan and China will be particularly important to us. <br/>
+Learn Japanese first because of its technology and Western-minded culture. <br/>
+We are all Western-friendly. Later, you can learn Mandarin if you still have the energy.
 
 ### History — Tứ Quốc Đồng Văn (四國同文)
 
@@ -96,14 +115,16 @@ Think of Japanese writing systems through Vietnamese:
 
 **Pronunciation Tips for Vietnamese Learners:**
 
-- **Ryo (りょ):** Start with **R** and end with **yo**. If you cannot pronounce it correctly at first, just say "ryo". This is your second foreign language, so don't worry too much as long as people understand you. :D
+- **Ryo (りょ):** Start with **R** and end with **yo**. If you cannot pronounce it correctly at first, just say "ryo". <br/>
+This is your second foreign language, so don't worry too much as long as people understand you. :D
 - **"Nhật không có cu, chỉ có cư."**: Japanese **く (ku)** sounds closer to Vietnamese "cư".
 - **R/L:** Japanese has no separate English-style R and L sounds. You can initially approximate **ra, re, ro, ru, ri** as Vietnamese **la, le, lo, lư, li**.
-- **Ryo (りょ):** Since Japanese has no separate English-style R sound, you can pronounce it as Vietnamese **"rô"**. There is no identical sound in Japanese, so they can still understand you. :D
+- **Ryo (りょ):** Since Japanese has no separate English-style R sound, you can pronounce it as Vietnamese **"rô"**. <br/>
+There is no identical sound in Japanese, so they can still understand you. :D
 - **Ryu (りゅ):** Means **dragon (竜 / 龍)** as Vietnamese **"riêu"**. :D
 - **Kyu (きゅ):** like Vietnamese "niêu", and the same approach applies to Nyu (にゅ), Gyu (ぎゅ), Chū (ちゅ), and other similar Japanese sounds.
 - **Gya (ぎゃ), Kya (きゃ), etc.:** If you cannot pronounce them correctly, just split the sounds: **gy-a, ky-a**, etc. :D
-- **V/B:** Japanese traditionally uses **B** sounds for foreign **V** sounds. For example, "Victoria" becomes **Bikutoria (ビクトリア)**. Think of Vietnamese **"vĩnh trú" → "bĩnh trú"** as a pronunciation trick.
+- **V/B:** Japanese traditionally uses **B** sounds for foreign **V** sounds. For example, "Victoria" becomes **Bikutoria (ビクトリア)**. Think of Vietnamese **"convenient" → "kon-bi-ni"** in katakana as a pronunciation trick.
 
 ### Katakana (カタカナ)
 
@@ -123,7 +144,7 @@ Japanese borrows many words from Western languages.
 - **ドイツ (Doitsu):** Germany, from German *Deutsch*.
 - **英語 (えいご, eigo):** Originally **英吉利語 (えいぎりすご)**, from Chinese, meaning "English language." But the Chinese were also lazy, so they shortened it to the first and last characters: **英 + 語 = 英語**. Because of **Tứ Quốc Đồng Văn (四國同文)**, Japan, Korea, and Vietnam followed the same shortened form: Japanese **英語 (えいご)**, Korean **영어 (英語, yeongeo)**, and Vietnamese **tiếng Anh**. **英** represents England/Britain, while **語** means language.
 
-**Tip:** All four nations are lazy! They shorten loanwords, like "biz" for "business". Remember this to recognize similar words in Japanese.
+**Tip:** All four nations are lazy! They shorten loanwords, like the beloved case : "リボ払い (ribo-barai)". Remember this to recognize similar words in Japanese.
 
 **Wasei-eigo (和製英語):**
 
@@ -141,7 +162,7 @@ For example:
 
 ## Kanji (漢字)
 
-### Western vs. Eastern Civilizations
+### Western vs Eastern Civilizations
 
 The Roman Empire and Han Dynasty emerged around the same period.<br/>
 In the West, the Roman state and its centralized government survived for centuries, with the Eastern Roman Empire (Byzantine Empire) lasting until the late medieval period.
@@ -170,7 +191,7 @@ Look at Korea's **Gwageo (科擧)** examination system. Scholars used their know
 Even after **King Sejong** created Hangul, the educated elite continued to favor Chinese characters.<br/>
 During the Japanese occupation, when Korean language and culture were suppressed, Hangul eventually became a symbol of Korean identity.
 
-In my view, those scholars were not the great people we often imagine. They were **worms of the nation**, protecting their social status rather than helping ordinary people.
+Those scholars were not good people. They only accepted Hangul and worked alongside the ordinary people to save their own asses.They were **worms of the nation**.
 
 Vietnam had similar problems with **Nho scholars (nhà Nho)**. They widened the gap between social classes and restricted access to education.
 
@@ -264,7 +285,25 @@ This comes from ancient Chinese writing traditions, when people wrote on bamboo 
 
 **Notice:** **Qin Shi Huang**, China's first emperor, standardized **Seal Script (篆書)** after unifying China.
 
-Why does this matter? Some Kanji use **Lệ thư**, while others use **Khải thư**. When searching for a character, you may find **very different forms**, sometimes looking like **completely different Kanji**. There are also handwritten styles, but I won't cover them here.
+Why does this matter? Some Kanji use **Lệ thư**, while others use **Khải thư**. </br>
+When searching for a character, you may find **very different forms**, sometimes looking like **completely different Kanji**.</br> 
+There are also handwritten styles, but I won't cover them here.
+
+### Kanji reading as Vietnamese
+
+| Japanese | Hiragana | Sino-Vietnamese | Modern Vietnamese | Meaning |
+|---|---|---|---|---|
+| 文化 | ぶんか | Văn hóa | Văn hóa | Culture |
+| 情報機関 | じょうほうきかん | Tình báo cơ quan | Cơ quan tình báo | Intelligence agency |
+| 専門技術 | せんもんぎじゅつ | Chuyên môn kỹ thuật | Kỹ thuật chuyên môn | Specialized technical skills |
+
+***Summary***
+
+In Vietnamese, we sometimes need to reverse the order of kanji pairs.</br>
+Why? Because Vietnamese belongs to the Viet-Muong branch of the Austroasiatic language family.</br>
+We say "mèo vàng," not "vàng mèo," so our word order is sometimes reversed from Chinese.</br>
+
+However, some Chinese word combinations are so commonly used in Vietnamese that we have accepted them as if they were native words.
 
 ## Grammar and listening
 
